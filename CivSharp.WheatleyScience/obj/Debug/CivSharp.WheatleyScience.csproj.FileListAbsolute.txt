@@ -1,0 +1,7 @@
+c:\users\pshegger\documents\visual studio 2010\Projects\CivSharp.WheatleyScience\CivSharp.WheatleyScience\bin\Debug\CivSharp.WheatleyScience.dll
+c:\users\pshegger\documents\visual studio 2010\Projects\CivSharp.WheatleyScience\CivSharp.WheatleyScience\bin\Debug\CivSharp.WheatleyScience.pdb
+c:\users\pshegger\documents\visual studio 2010\Projects\CivSharp.WheatleyScience\CivSharp.WheatleyScience\bin\Debug\CivSharp.Common.dll
+c:\users\pshegger\documents\visual studio 2010\Projects\CivSharp.WheatleyScience\CivSharp.WheatleyScience\bin\Debug\CivSharp.Common.pdb
+c:\users\pshegger\documents\visual studio 2010\Projects\CivSharp.WheatleyScience\CivSharp.WheatleyScience\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pshegger\documents\visual studio 2010\Projects\CivSharp.WheatleyScience\CivSharp.WheatleyScience\obj\Debug\CivSharp.WheatleyScience.dll
+c:\users\pshegger\documents\visual studio 2010\Projects\CivSharp.WheatleyScience\CivSharp.WheatleyScience\obj\Debug\CivSharp.WheatleyScience.pdb
